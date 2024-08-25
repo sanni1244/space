@@ -30,10 +30,7 @@ Check out the live site: [Space Voyage](https://sanni1244.github.io/space/)
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://your-screenshot-link-here" alt="Screenshot of the homepage" width="600"/>
-</p>
-<p align="center">
-  <img src="https://your-screenshot-link-here" alt="Screenshot of a feature page" width="600"/>
+  <img src="/screenshot/screen.png" alt="Screenshot of the homepage" width="600"/>
 </p>
 
 ## 💻 Installation
@@ -41,4 +38,4 @@ Check out the live site: [Space Voyage](https://sanni1244.github.io/space/)
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/space-voyage.git
+git clone https://github.com/sanni1244/space.git
