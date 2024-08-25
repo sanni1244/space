@@ -1,10 +1,7 @@
 # 🌌 Space Voyage
 
-<p align="center">
-  <img src="https://your-image-link-here" alt="Space Voyage Logo" width="200"/>
-</p>
 
-<p align="center">
+<p>
   <strong>Your Gateway to the Universe</strong><br/>
   Dive into the wonders of space exploration, uncover the mysteries of the cosmos, and learn about the fascinating aspects of our universe.
 </p>
